@@ -1,0 +1,15 @@
+[project]
+name = "datapilot-ai"
+version = "1.0.0"
+description = "DataPilot AI — an AI-assisted, deterministic-first data analytics platform (upload, clean, analyze, ask)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"

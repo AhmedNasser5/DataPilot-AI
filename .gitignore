@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+data/*.duckdb
+storage/originals/*
+storage/versions/*
+storage/processed/*
+storage/exports/*
+!storage/**/.gitkeep
+.venv/
+venv/
+*.egg-info/
+.DS_Store
