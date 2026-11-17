@@ -198,6 +198,8 @@ dataset.
   mileage.
 - PDF analytical report export.
 
+- Project trial video: https://drive.google.com/file/d/1kVY9eqN2QJp0z_KVLEELRp6rydA79_CK/view?usp=sharing
+
 ---
 
 ## License
